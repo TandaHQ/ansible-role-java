@@ -4,4 +4,4 @@
 #   - openjdk-8-jdk
 #   - openjdk-9-jdk
 __java_packages:
-  - openjdk-11-jdk
+  - openjdk-9-jdk
